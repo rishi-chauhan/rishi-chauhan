@@ -17,10 +17,8 @@ When I'm not doing that, I'm building stuff for myself — like a personal finan
 
 ---
 
-### Find me
-
-[LinkedIn](https://www.linkedin.com/in/rishirajsinghchauhan) · [X / Twitter](https://twitter.com/_rrsc)
-
+### Connect
+[LinkedIn](https://www.linkedin.com/in/rishirajsinghchauhan)
 ---
 
 *always learning. always building. occasionally shipping.*
