@@ -1,17 +1,26 @@
-## 👋 Hi, I'm Rishi Chauhan
+# Hey, I'm Rishi 🙃
 
-Senior Software Engineer @ ServiceNow  
-Interested in building scalable platforms, document systems & AI-powered tools  
-Actively looking to contribute to open source projects
+I build things at **ServiceNow** — mostly platform internals, developer tooling, and lately, wiring up AI systems (AWS, GCP, Azure) into ServiceNow's CMDB so enterprises can actually see and govern their AI assets. It's a weird and interesting problem to work on.
 
-### Tech
-JavaScript · ServiceNow Platform · Java · Python · React · REST APIs
+Before that: document systems, PDF viewers, an AI app that won an internal prize, and more legacy code re-architectures than I care to count.
 
-### Projects
-- **[Image Array & Histogram (Python)](https://github.com/rishi-chauhan/my-packages)** – Open-source utility to extract pixel arrays & histograms from grayscale images
-- **[Paisa Kidhar Gaya?!](https://github.com/rishi-chauhan/expense_tracker)** - A vibe coded personal expense analyzer for credit card statements. Upload your CSVs, get instant dashboards and charts — no cloud, no signup, everything stays on your machine.
+When I'm not doing that, I'm building stuff for myself — like a personal finance tool because I kept wondering *पैसा किधर गया?!*
 
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/rishirajsinghchauhan)
+---
 
-⭐️ Always learning. Always building.
+### What's here
+
+| Project | What it is |
+|---|---|
+| [**Paisa Kidhar Gaya?!**](https://github.com/rishi-chauhan/expense_tracker) | expense analyzer for Indian credit card CSVs. local AI, no cloud, no signup. runs on a Raspberry Pi if you're that kind of person |
+| [**Image Array & Histogram**](https://github.com/rishi-chauhan/my-packages) | small Python utility. does what it says on the tin |
+
+---
+
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/rishirajsinghchauhan) · [X / Twitter](https://twitter.com/_rrsc)
+
+---
+
+*always learning. always building. occasionally shipping.*
